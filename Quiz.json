@@ -1,0 +1,32 @@
+{
+    "NamesOfPeoplePresenting": [ "          ", "         "],
+    "What does REST API stand for":
+    [
+        "Re                 ",
+        "S                  ",
+        "T                  ",
+        "A                  ",
+        "P                  ",
+        "I                  "
+    ],
+    "What is one reason you should care about API's": "                                 ",
+    "What are the three elements that make up an API Endpoint": [
+
+        "A            ", "A       ", "R                "
+    ],
+    "True or False, an API can have more than one Resource?":         ,
+    "The CRUD translations for APIs are:" : {
+        "Create":"P           ",
+        "Read": "R            ",
+        "Update": "P          ",
+        "Delete": "D          "
+    },
+    "What are the four elements of an HTTP API Request":[
+        "O           ",
+        "E           ",
+        "P             &/or B            ",
+        "Headers "
+    ],
+    "What 'notation' is this quiz written in?" : "          "
+
+}
